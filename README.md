@@ -151,7 +151,17 @@ hacker also gets the data but no use
     - Root certificate
     - Server certificate
     - Client certificate
-    
+![](assets/certificate-chain.png)
+# K8 certificates
+![](assets/k8-certificates.png)
+# CA certs using OPENSSL
+![](assets/openssl.png)
+# Client using CA certs
+![](assets/client-use-custom-ca.png)
+# Use certs to create user account
+- Add group details in the csr
+
+
 
 
 
